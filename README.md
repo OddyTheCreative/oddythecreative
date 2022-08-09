@@ -1,4 +1,4 @@
-## 안녕하세요
+### 공부중
 
 <!--
 **OddyTheCreative/oddythecreative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
